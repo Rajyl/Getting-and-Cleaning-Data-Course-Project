@@ -1,30 +1,24 @@
 
 # Getting and Cleaning Data - John Hopkins University
 
-Part of the Module 3: Getting and Cleaning Data is to write a project/assignment to demonstrate the student’s ability to collect, work with, and clean a data set.
-
-This project uses the Human Activity Recognition Using Smartphones Dataset Version 1.0
-==================================================================
-Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
-Smartlab - Non Linear Complex Systems Laboratory
-DITEN - Universit‡ degli Studi di Genova.
-Via Opera Pia 11A, I-16145, Genoa, Italy.
-activityrecognition@smartlab.ws
-www.smartlab.ws
-==================================================================
+Part of the Module 3: Getting and Cleaning Data is to write a project/assignment to demonstrate the student’s ability to collect, work with, and clean a data set. 
 
 Please see License details as part of my acknowledgement and reference. 
 
 
 Along with this submission is a file “run_analysis.R” which:
 
-Part i. Basically, cleaning your R environment.
-Part ii. Load the necessary R Library
-Part iii. Checking, Creating and Unzipping the file to the desired directory
-Part iv. Checking and listing all the files inside the UCI HAR Dataset folder
+	Part i. Basically, cleaning your R environment.
+
+	Part ii. Load the necessary R Library
+
+	Part iii. Checking, Creating and Unzipping the file to the desired directory
+
+	Part iv. Checking and listing all the files inside the UCI HAR Dataset folder
+
 
 ## ASSIGNMENT 1: Merges the training and the test sets to create one data set.
-		* Passing the values the txt files into the data set.
+	* Passing the values the txt files into the data set.
 	* Merging the data sets to create one data set.
 
 ## ASSIGNMENT 2: Extracts only the measurements on the mean and standard deviation for each measurement.
